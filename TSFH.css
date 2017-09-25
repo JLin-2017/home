@@ -7,7 +7,7 @@ h1
 
 body 
 {
-    background-image: url("greybackground.jpg"); /*Grey Background*\
+    background-image: url("greybackground.jpg");
 }
 
 p 
@@ -40,7 +40,7 @@ title
 }
 .li
 {
-	float: left; /*Navigation Bar*\
+	float: left;
     	display: block;
    	color: white;
     	text-align: center;
