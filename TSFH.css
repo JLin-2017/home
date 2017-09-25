@@ -1,0 +1,78 @@
+h1 
+{
+    	color: black;
+    	text-align: center;
+   	font-family: "Hot Mustard BTN Poster", "showcard gothic", serif;
+}
+
+body 
+{
+    background-image: url("greybackground.jpg");
+}
+
+p 
+{
+    	font-family: verdana,serif;
+    	font-size: 20px;
+}
+
+h2
+{
+	color: black;
+	font-family: elephant,serif;
+}
+li
+{
+	font-family: verdana,serif;
+	font-size: 20px;
+}
+title
+{
+	font-size: 30px;
+}
+.ul
+{
+    	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	overflow: hidden;
+    	background-color: #333;
+}
+.li
+{
+	float: left; 
+    	display: block;
+   	color: white;
+    	text-align: center;
+    	padding: 8px 10px;
+    	text-decoration: none;
+	font-size: 18px;
+	border-right: 1px solid #bbb;
+}
+
+.li:hover 
+{
+    	background-color: #111;
+}
+.li:hover:not(.active) 
+{
+   	background-color: #111;
+}
+
+.li.active 
+{
+    	background-color: #4CAF50;
+}
+.videoborder 
+{
+	margin: 0 auto;
+	border: 10px outset #ddd;
+	border-style: ridge;
+}
+img.center 
+{
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+	
